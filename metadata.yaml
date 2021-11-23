@@ -1,11 +1,16 @@
 _repo: La-vivante-paix_66674
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66674-h/images/cover.jpg
 creator:
   author:
     agent_name: Régnier, Paule
     gutenberg_agent_id: '53909'
     url: http://www.gutenberg.org/2009/agents/53909
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66674#La-vivante-paix
 gutenberg_issued: '2021-11-05'
 identifiers:
   gutenberg: '66674'
